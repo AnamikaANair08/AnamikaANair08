@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anamika A Nair</h1>
-<h3 align="center">Data Analyst Data Analyst skilled in SQL, Advanced Excel, Power BI</h3>
+<h3 align="center">Data Analyst skilled in SQL, Advanced Excel, Power BI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamikaanair08&label=Profile%20views&color=0e75b6&style=flat" alt="anamikaanair08" /> </p>
 
